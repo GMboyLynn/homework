@@ -1,4 +1,0 @@
-hello	hive	good
-mand	good	mand
-good	good
-mand	hello	hive
